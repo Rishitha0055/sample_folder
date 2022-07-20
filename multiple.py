@@ -8,7 +8,7 @@ def multiplyList(myList) :
     return result
      
 # Driver code
-list1 = [1, 2, 3]
-list2 = [3, 2, 4]
+list1 = [4, 5, 7]
+list2 = [3, 4, 5]
 print(multiplyList(list1))
 print(multiplyList(list2))
